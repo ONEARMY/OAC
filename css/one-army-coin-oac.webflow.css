@@ -229,6 +229,14 @@
   font-weight: 500;
 }
 
+.div-block {
+  position: static;
+}
+
+.text-block-2 {
+  text-align: center;
+}
+
 @media screen and (max-width: 991px) {
   .image.header {
     max-width: 300px;
